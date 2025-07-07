@@ -1,0 +1,19 @@
+container{
+    width:100%;
+}
+.imgecon1,.imgecon2,.imgecon3,.imgecon4,.imgecon5,.imgecon6,.imgecon7,.imgecon8{
+    width:300px;
+    height:300px;
+    position:relative;
+    display:inline-block;
+}
+img{
+    width:100%;
+}
+p{
+    color:white;
+    background-color:black;
+    position:absolute;
+    padding:8px;
+    top:0;
+}
